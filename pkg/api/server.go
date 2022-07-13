@@ -3,7 +3,7 @@ package api
 import (
 	"fmt"
 	"github.com/gorilla/mux"
-	"github.com/pankajyadav2741/Kubernetes-Projects/ott/pkg/model"
+	"github.com/pankajyadav2741/ott/pkg/model"
 	"net/http"
 	"os"
 	"os/signal"

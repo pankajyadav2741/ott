@@ -1,7 +1,7 @@
 package model
 
 import (
-	"github.com/pankajyadav2741/Kubernetes-Projects/ott/pkg/error"
+	"github.com/pankajyadav2741/ott/pkg/error"
 	"net/http"
 )
 

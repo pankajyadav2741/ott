@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/pankajyadav2741/Kubernetes-Projects/ott/pkg/api"
+	"github.com/pankajyadav2741/ott/pkg/api"
 )
 
 func main() {
