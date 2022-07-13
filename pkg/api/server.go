@@ -1,6 +1,7 @@
 package api
 
 import (
+	"context"
 	"fmt"
 	"github.com/gorilla/mux"
 	"github.com/pankajyadav2741/ott/pkg/model"
